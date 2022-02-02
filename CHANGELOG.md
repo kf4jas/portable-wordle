@@ -9,5 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - bot - adds changelog
 - adds version updater and some install notes in readme
+- bot - adds changelog
+
+### Changed
+- fixes bad version in the .version file
 
 - bot - adds changelog
